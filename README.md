@@ -6,7 +6,7 @@ I'm Konstantin Tenman, a seasoned software developer.
 
 - Software craftsmanship
 - Test-Driven Development (TDD) / Pair programming
-- Java / Kotlin
+- Kotlin / Java
 - Web development (TypeScript, Vue, Svelte)
 - Open-source contributions
 - Conferences and community engagement
