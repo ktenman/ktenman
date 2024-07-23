@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Konstantin Tenman, a seasoned software developer and author of the open-source project Selenide.
+I'm Konstantin Tenman, a seasoned software developer.
 
 **My favorite topics include:**
 
