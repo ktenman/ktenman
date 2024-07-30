@@ -27,4 +27,6 @@ With 8 years of specialized Java development, I've honed my skills in creating c
 I'm searching for a forward-thinking organization where I can unleash my potential, share my passion, and help deliver outstanding software. Let's connect if you're looking for someone who can turn coffee into code and challenges into triumphs!
 
 Remember: There are no problems in software development — only features waiting to be implemented! 😉
+
+
 [![ktenman's GitHub | Stats](https://stats.quine.sh/ktenman/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ktenman)
