@@ -5,7 +5,7 @@ Welcome to my corner of the coding universe! I'm a passionate software craftsman
 ## 🚀 What Makes Me Tick
 
 - **Software Craftsmanship**: I don't just write code; I craft elegant solutions.
-- **Test-Driven Development**: Because great software is born from rigorous testing.
+- **Test-Driven Development**: Great software is born from intense testing.
 - **Kotlin & Java**: My dynamic duo for backend wizardry.
 - **Web Dev Enthusiast**: TypeScript, Vue, and Svelte are my playground.
 - **Open-Source Advocate**: Contributing to the community that's given me so much.
@@ -13,7 +13,7 @@ Welcome to my corner of the coding universe! I'm a passionate software craftsman
 
 ## 💼 Professional Journey
 
-With 8 years of specialized Java development, I've honed my skills in creating code that's not just functional but a joy to work with. I thrive in fast-paced environments where problem-solving is the name of the game.
+With 8 years of specialized Java development, I've polished my skills in creating code that's not just functional but a joy to work with. I thrive in fast-paced environments where problem-solving is the name of the game.
 
 ## 🌟 What I Bring to the Table
 
