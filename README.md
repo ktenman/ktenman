@@ -1,34 +1,45 @@
 # Hey there, I'm Konstantin Tenman! 👋
 
-Welcome to my corner of the coding universe! I'm a passionate software craftsman with a decade of experience and an insatiable curiosity for all things tech. 
+I craft robust software solutions with a decade of experience. My code doesn't just work—it excels.
 
-## 🚀 What Makes Me Tick
+## 🚀 What Drives Me
 
-- **Software Craftsmanship**: I don't just write code; I craft elegant solutions.
-- **Test-Driven Development**: Great software is born from intense testing.
-- **Kotlin & Java**: My dynamic duo for backend wizardry.
-- **Web Dev Enthusiast**: TypeScript, Vue, and Svelte are my playground.
-- **Open-Source Advocate**: Contributing to the community that's given me so much.
-- **Conference Junkie**: Always learning, always sharing!
+- **Software Craftsmanship**: I forge elegant, scalable solutions.
+- **Test-Driven Development**: I build reliability into every line of code.
+- **Kotlin & Java**: I architect powerful backend systems.
+- **Web Development**: I create responsive UIs with TypeScript and Vue.
+- **Open-Source**: I contribute to and maintain community projects.
 
-## 💼 Professional Journey
+## 💼 My Journey
 
-With 8 years of specialized Java development, I've polished my skills in creating code that's not just functional but a joy to work with. I thrive in fast-paced environments where problem-solving is the name of the game.
+With 8+ years of Java expertise, I've honed my skills in high-pressure environments. I transform complex problems into clean, efficient code.
 
-## 🌟 What I Bring to the Table
+## 🛠️ Tech Stack
 
-- A knack for crafting scalable, maintainable, and high-quality code
-- A cool head under pressure and a warm smile for teammates
-- An eye for detail and a brain for innovative solutions
-- A passion for continuous delivery and rigorous testing
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 
-## 💡 My Philosophy
+## 🌟 Key Strengths
 
-I believe in clean code, continuous learning, and collaborative development. Whether refactoring a legacy system or architecting a new solution, I'm always excited to tackle new challenges and push the boundaries of what's possible in software development.
+- Architecting scalable, maintainable systems
+- Thriving under pressure and energizing teams
+- Pinpointing details and devising innovative solutions
+- Spearheading continuous delivery and rigorous testing
 
-Feel free to explore my repositories, and don't hesitate to reach out if you want to discuss code, collaborate on a project, or just chat about the latest tech trends!
+## 💡 Philosophy
 
-Remember: There are no problems in software development - only features waiting to be implemented! 😉
+Clean code, relentless learning, and seamless teamwork fuel my approach. I conquer challenges in legacy systems and cutting-edge projects alike.
 
+## 🌱 Currently Learning
 
-[![ktenman's GitHub | Stats](https://stats.quine.sh/ktenman/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ktenman)
+Exploring cloud-native architectures and diving deeper into Kubernetes.
+
+Dive into my repositories! Reach out to dissect code, forge collaborations, or explore the latest in tech.
+
+Remember: In software development, every challenge is an opportunity for innovation! 😉
+
+[![ktenman's GitHub Stats](https://stats.quine.sh/ktenman/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ktenman)
