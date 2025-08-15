@@ -41,5 +41,3 @@ Exploring cloud-native architectures and diving deeper into Kubernetes.
 Dive into my repositories! Reach out to dissect code, forge collaborations, or explore the latest in tech.
 
 Remember: In software development, every challenge is an opportunity for innovation! 😉
-
-[![ktenman's GitHub Stats](https://stats.quine.sh/ktenman/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ktenman)
