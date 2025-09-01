@@ -12,7 +12,7 @@ I craft robust software solutions with a decade of experience. My code doesn't j
 
 ## 💼 My Journey
 
-With 8+ years of Java expertise, I've honed my skills in high-pressure environments. I transform complex problems into clean, efficient code.
+With 10+ years of Java expertise, I've honed my skills in high-pressure environments. I transform complex problems into clean, efficient code.
 
 ## 🛠️ Tech Stack
 
